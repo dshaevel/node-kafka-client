@@ -1,0 +1,11 @@
+{
+    "name": "node-kafka-client",
+    "author": "David Shaevel",
+    "version": "1.0.0",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "kafka-node": "^2.5.0",
+        "lodash": "^4.17.5",
+        "retry": "^0.12.0"
+    }
+}
